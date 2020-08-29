@@ -1,0 +1,959 @@
+Prim Enc Type,Rcv Owner Hier,Hlth Plan Rpt Grp Hier,Trans Post Date,Pay
+IP,JA Jacobi Med Cntr,Commercial,Q3 2018,-1711409.37
+IP,JA Jacobi Med Cntr,Commercial,Q4 2018,-3707344.11
+IP,JA Jacobi Med Cntr,Commercial,Q1 2019,-4132739.51
+IP,JA Jacobi Med Cntr,Commercial,Q2 2019,-4722612.52
+IP,JA Jacobi Med Cntr,Commercial,Q3 2019,-3423662.81
+IP,JA Jacobi Med Cntr,Commercial,Q4 2019,-934062.12
+IP,JA Jacobi Med Cntr,Commercial,Q1 2020,-101574.34
+IP,JA Jacobi Med Cntr,Commercial,Q2 2020,-35189.48
+IP,JA Jacobi Med Cntr,Commercial,Q3 2020,16880.02
+IP,JA Jacobi Med Cntr,Commercial Managed Care,Q3 2018,-544868.73
+IP,JA Jacobi Med Cntr,Commercial Managed Care,Q4 2018,-1279107.38
+IP,JA Jacobi Med Cntr,Commercial Managed Care,Q1 2019,-1079636.52
+IP,JA Jacobi Med Cntr,Commercial Managed Care,Q2 2019,-1155043.93
+IP,JA Jacobi Med Cntr,Commercial Managed Care,Q3 2019,-780553.28
+IP,JA Jacobi Med Cntr,Commercial Managed Care,Q4 2019,-165800.97
+IP,JA Jacobi Med Cntr,Commercial Managed Care,Q1 2020,-30183.35
+IP,JA Jacobi Med Cntr,Commercial Managed Care,Q2 2020,-20619.15
+IP,JA Jacobi Med Cntr,Government/Other,Q4 2018,-36256.24
+IP,JA Jacobi Med Cntr,Government/Other,Q1 2019,-10449.48
+IP,JA Jacobi Med Cntr,Government/Other,Q2 2019,-20431.04
+IP,JA Jacobi Med Cntr,Government/Other,Q3 2019,-18571.98
+IP,JA Jacobi Med Cntr,Government/Other,Q4 2019,-33094.7
+IP,JA Jacobi Med Cntr,Government/Other,Q1 2020,-2.75
+IP,JA Jacobi Med Cntr,Government/Other,Q2 2020,-41658.33
+IP,JA Jacobi Med Cntr,Guar,Q3 2018,-18173.76
+IP,JA Jacobi Med Cntr,Guar,Q4 2018,-26308.13
+IP,JA Jacobi Med Cntr,Guar,Q1 2019,-43519.74
+IP,JA Jacobi Med Cntr,Guar,Q2 2019,-37679.96
+IP,JA Jacobi Med Cntr,Guar,Q3 2019,-29904.65
+IP,JA Jacobi Med Cntr,Guar,Q4 2019,-8619.74
+IP,JA Jacobi Med Cntr,Guar,Q1 2020,-4892.74
+IP,JA Jacobi Med Cntr,Guar,Q2 2020,-5225.2
+IP,JA Jacobi Med Cntr,Guar,Q3 2020,-668.78
+IP,JA Jacobi Med Cntr,Medicaid,Q3 2018,-13564247.33
+IP,JA Jacobi Med Cntr,Medicaid,Q4 2018,-24716978.16
+IP,JA Jacobi Med Cntr,Medicaid,Q1 2019,-22637351.85
+IP,JA Jacobi Med Cntr,Medicaid,Q2 2019,-25127276.63
+IP,JA Jacobi Med Cntr,Medicaid,Q3 2019,-9767169.34
+IP,JA Jacobi Med Cntr,Medicaid,Q4 2019,-951327.04
+IP,JA Jacobi Med Cntr,Medicaid,Q1 2020,3010.03
+IP,JA Jacobi Med Cntr,Medicaid,Q2 2020,-51224.77
+IP,JA Jacobi Med Cntr,Medicaid,Q3 2020,2483.36
+IP,JA Jacobi Med Cntr,Medicaid MC,Q3 2018,-4521006.18
+IP,JA Jacobi Med Cntr,Medicaid MC,Q4 2018,-7699542.3
+IP,JA Jacobi Med Cntr,Medicaid MC,Q1 2019,-15209630.33
+IP,JA Jacobi Med Cntr,Medicaid MC,Q2 2019,-12101007.11
+IP,JA Jacobi Med Cntr,Medicaid MC,Q3 2019,-6678090.28
+IP,JA Jacobi Med Cntr,Medicaid MC,Q4 2019,-891628.37
+IP,JA Jacobi Med Cntr,Medicaid MC,Q1 2020,-593454.47
+IP,JA Jacobi Med Cntr,Medicaid MC,Q2 2020,-433167.49
+IP,JA Jacobi Med Cntr,Medicaid MC,Q3 2020,20838.58
+IP,JA Jacobi Med Cntr,Medicare,Q3 2018,-9400986.7
+IP,JA Jacobi Med Cntr,Medicare,Q4 2018,-14814601.2
+IP,JA Jacobi Med Cntr,Medicare,Q1 2019,-15822510.16
+IP,JA Jacobi Med Cntr,Medicare,Q2 2019,-16157336
+IP,JA Jacobi Med Cntr,Medicare,Q3 2019,-6288101.54
+IP,JA Jacobi Med Cntr,Medicare,Q4 2019,-319090.17
+IP,JA Jacobi Med Cntr,Medicare,Q1 2020,-159238.35
+IP,JA Jacobi Med Cntr,Medicare,Q2 2020,-54861.35
+IP,JA Jacobi Med Cntr,Medicare,Q3 2020,-13943.24
+IP,JA Jacobi Med Cntr,Medicare MC,Q3 2018,-3724135.13
+IP,JA Jacobi Med Cntr,Medicare MC,Q4 2018,-6252350.18
+IP,JA Jacobi Med Cntr,Medicare MC,Q1 2019,-9615139.81
+IP,JA Jacobi Med Cntr,Medicare MC,Q2 2019,-9835815.96
+IP,JA Jacobi Med Cntr,Medicare MC,Q3 2019,-5396883.51
+IP,JA Jacobi Med Cntr,Medicare MC,Q4 2019,-975411.64
+IP,JA Jacobi Med Cntr,Medicare MC,Q1 2020,125245.71
+IP,JA Jacobi Med Cntr,Medicare MC,Q2 2020,-189312.18
+IP,JA Jacobi Med Cntr,Medicare MC,Q3 2020,-64408.77
+IP,JA Jacobi Med Cntr,MetroPlus Commercial,Q3 2018,-150816.55
+IP,JA Jacobi Med Cntr,MetroPlus Commercial,Q4 2018,-173669.68
+IP,JA Jacobi Med Cntr,MetroPlus Commercial,Q1 2019,-309450.76
+IP,JA Jacobi Med Cntr,MetroPlus Commercial,Q2 2019,-367549.85
+IP,JA Jacobi Med Cntr,MetroPlus Commercial,Q3 2019,-83103.86
+IP,JA Jacobi Med Cntr,MetroPlus Commercial,Q3 2020,-226811.23
+IP,JA Jacobi Med Cntr,MetroPlus Medicaid,Q3 2018,-2850400.52
+IP,JA Jacobi Med Cntr,MetroPlus Medicaid,Q4 2018,-3830207.28
+IP,JA Jacobi Med Cntr,MetroPlus Medicaid,Q1 2019,-4475153.46
+IP,JA Jacobi Med Cntr,MetroPlus Medicaid,Q2 2019,-4409867.13
+IP,JA Jacobi Med Cntr,MetroPlus Medicaid,Q3 2019,-1249504.09
+IP,JA Jacobi Med Cntr,MetroPlus Medicaid,Q4 2019,-105833.89
+IP,JA Jacobi Med Cntr,MetroPlus Medicaid,Q1 2020,-4526.33
+IP,JA Jacobi Med Cntr,MetroPlus Medicaid,Q2 2020,98.44
+IP,JA Jacobi Med Cntr,MetroPlus Medicaid,Q3 2020,-3122571.33
+IP,JA Jacobi Med Cntr,MetroPlus Medicare,Q3 2018,-162060
+IP,JA Jacobi Med Cntr,MetroPlus Medicare,Q4 2018,-297191.34
+IP,JA Jacobi Med Cntr,MetroPlus Medicare,Q1 2019,-484285.53
+IP,JA Jacobi Med Cntr,MetroPlus Medicare,Q2 2019,-617952
+IP,JA Jacobi Med Cntr,MetroPlus Medicare,Q3 2019,-267106.28
+IP,JA Jacobi Med Cntr,MetroPlus Medicare,Q4 2019,-110.29
+IP,JA Jacobi Med Cntr,No Fault,Q3 2018,-76194.87
+IP,JA Jacobi Med Cntr,No Fault,Q4 2018,-730299.87
+IP,JA Jacobi Med Cntr,No Fault,Q1 2019,-1486989.93
+IP,JA Jacobi Med Cntr,No Fault,Q2 2019,-1224910.08
+IP,JA Jacobi Med Cntr,No Fault,Q3 2019,-1200017.32
+IP,JA Jacobi Med Cntr,No Fault,Q4 2019,-314675.76
+IP,JA Jacobi Med Cntr,No Fault,Q1 2020,-196156.4
+IP,JA Jacobi Med Cntr,No Fault,Q2 2020,-52066.91
+IP,JA Jacobi Med Cntr,No Fault,Q3 2020,-53002.61
+IP,JA Jacobi Med Cntr,Workers Comp,Q3 2018,-41728.25
+IP,JA Jacobi Med Cntr,Workers Comp,Q4 2018,-260391.05
+IP,JA Jacobi Med Cntr,Workers Comp,Q1 2019,-540302.9
+IP,JA Jacobi Med Cntr,Workers Comp,Q2 2019,-503054.74
+IP,JA Jacobi Med Cntr,Workers Comp,Q3 2019,-285853.29
+IP,JA Jacobi Med Cntr,Workers Comp,Q4 2019,-163806.89
+IP,JA Jacobi Med Cntr,Workers Comp,Q1 2020,-124189.73
+IP,JA Jacobi Med Cntr,Workers Comp,Q2 2020,-12799.64
+IP,NO NCB Hosp,Commercial,Q3 2018,-395137.33
+IP,NO NCB Hosp,Commercial,Q4 2018,-669368.83
+IP,NO NCB Hosp,Commercial,Q1 2019,-932911.07
+IP,NO NCB Hosp,Commercial,Q2 2019,-1149796.89
+IP,NO NCB Hosp,Commercial,Q3 2019,-317975.05
+IP,NO NCB Hosp,Commercial,Q4 2019,-148926.18
+IP,NO NCB Hosp,Commercial,Q1 2020,7751.09
+IP,NO NCB Hosp,Commercial,Q2 2020,12304.05
+IP,NO NCB Hosp,Commercial Managed Care,Q3 2018,-91777.69
+IP,NO NCB Hosp,Commercial Managed Care,Q4 2018,-232218.38
+IP,NO NCB Hosp,Commercial Managed Care,Q1 2019,-171369.77
+IP,NO NCB Hosp,Commercial Managed Care,Q2 2019,-193073.5
+IP,NO NCB Hosp,Commercial Managed Care,Q3 2019,-91308.94
+IP,NO NCB Hosp,Commercial Managed Care,Q4 2019,-42143.73
+IP,NO NCB Hosp,Commercial Managed Care,Q1 2020,-5633.11
+IP,NO NCB Hosp,Commercial Managed Care,Q2 2020,-12289.58
+IP,NO NCB Hosp,Government/Other,Q4 2018,-5813.12
+IP,NO NCB Hosp,Government/Other,Q2 2019,-55.8
+IP,NO NCB Hosp,Guar,Q3 2018,-1937.5
+IP,NO NCB Hosp,Guar,Q4 2018,-1257.52
+IP,NO NCB Hosp,Guar,Q1 2019,-6019.83
+IP,NO NCB Hosp,Guar,Q2 2019,-8980.56
+IP,NO NCB Hosp,Guar,Q3 2019,-9222.17
+IP,NO NCB Hosp,Guar,Q4 2019,-5387.79
+IP,NO NCB Hosp,Guar,Q1 2020,-2267.35
+IP,NO NCB Hosp,Guar,Q2 2020,-1440
+IP,NO NCB Hosp,Guar,Q3 2020,-280
+IP,NO NCB Hosp,Medicaid,Q3 2018,-3025372.25
+IP,NO NCB Hosp,Medicaid,Q4 2018,-4903002.93
+IP,NO NCB Hosp,Medicaid,Q1 2019,-6026645.07
+IP,NO NCB Hosp,Medicaid,Q2 2019,-5545656.65
+IP,NO NCB Hosp,Medicaid,Q3 2019,-1846658.87
+IP,NO NCB Hosp,Medicaid,Q4 2019,-818794.21
+IP,NO NCB Hosp,Medicaid,Q1 2020,144356.92
+IP,NO NCB Hosp,Medicaid,Q2 2020,11066.96
+IP,NO NCB Hosp,Medicaid,Q3 2020,0
+IP,NO NCB Hosp,Medicaid MC,Q3 2018,-1555818.95
+IP,NO NCB Hosp,Medicaid MC,Q4 2018,-2475266.93
+IP,NO NCB Hosp,Medicaid MC,Q1 2019,-4431295.14
+IP,NO NCB Hosp,Medicaid MC,Q2 2019,-3768256.94
+IP,NO NCB Hosp,Medicaid MC,Q3 2019,-2270155.23
+IP,NO NCB Hosp,Medicaid MC,Q4 2019,-65829.01
+IP,NO NCB Hosp,Medicaid MC,Q1 2020,-674466.57
+IP,NO NCB Hosp,Medicaid MC,Q2 2020,-260414.42
+IP,NO NCB Hosp,Medicaid MC,Q3 2020,98970.22
+IP,NO NCB Hosp,Medicare,Q3 2018,-1803697.12
+IP,NO NCB Hosp,Medicare,Q4 2018,-3022468.3
+IP,NO NCB Hosp,Medicare,Q1 2019,-3005192.2
+IP,NO NCB Hosp,Medicare,Q2 2019,-2817707
+IP,NO NCB Hosp,Medicare,Q3 2019,-1016093.63
+IP,NO NCB Hosp,Medicare,Q4 2019,-42681.84
+IP,NO NCB Hosp,Medicare,Q1 2020,-2774.71
+IP,NO NCB Hosp,Medicare,Q2 2020,14951.87
+IP,NO NCB Hosp,Medicare MC,Q3 2018,-862920.72
+IP,NO NCB Hosp,Medicare MC,Q4 2018,-1505364.86
+IP,NO NCB Hosp,Medicare MC,Q1 2019,-2161154.45
+IP,NO NCB Hosp,Medicare MC,Q2 2019,-2011577.3
+IP,NO NCB Hosp,Medicare MC,Q3 2019,-1009886.82
+IP,NO NCB Hosp,Medicare MC,Q4 2019,-121806.85
+IP,NO NCB Hosp,Medicare MC,Q1 2020,96662.79
+IP,NO NCB Hosp,Medicare MC,Q2 2020,13489.58
+IP,NO NCB Hosp,Medicare MC,Q3 2020,16492.45
+IP,NO NCB Hosp,MetroPlus Commercial,Q3 2018,-36939.81
+IP,NO NCB Hosp,MetroPlus Commercial,Q4 2018,-132344.7
+IP,NO NCB Hosp,MetroPlus Commercial,Q1 2019,-265261.96
+IP,NO NCB Hosp,MetroPlus Commercial,Q2 2019,-109766.69
+IP,NO NCB Hosp,MetroPlus Commercial,Q3 2019,-22066.62
+IP,NO NCB Hosp,MetroPlus Commercial,Q4 2019,-10697.66
+IP,NO NCB Hosp,MetroPlus Commercial,Q2 2020,-3634.7
+IP,NO NCB Hosp,MetroPlus Commercial,Q3 2020,-37539.76
+IP,NO NCB Hosp,MetroPlus Medicaid,Q3 2018,-1116233.98
+IP,NO NCB Hosp,MetroPlus Medicaid,Q4 2018,-1484875.88
+IP,NO NCB Hosp,MetroPlus Medicaid,Q1 2019,-1503669.86
+IP,NO NCB Hosp,MetroPlus Medicaid,Q2 2019,-1209645.79
+IP,NO NCB Hosp,MetroPlus Medicaid,Q3 2019,-326200.31
+IP,NO NCB Hosp,MetroPlus Medicaid,Q4 2019,-17536.6
+IP,NO NCB Hosp,MetroPlus Medicaid,Q1 2020,10076.88
+IP,NO NCB Hosp,MetroPlus Medicaid,Q3 2020,-1197308.38
+IP,NO NCB Hosp,MetroPlus Medicare,Q3 2018,-89462.55
+IP,NO NCB Hosp,MetroPlus Medicare,Q4 2018,-233841.79
+IP,NO NCB Hosp,MetroPlus Medicare,Q1 2019,148708.28
+IP,NO NCB Hosp,MetroPlus Medicare,Q2 2019,-220984.88
+IP,NO NCB Hosp,MetroPlus Medicare,Q3 2019,-45524.27
+IP,EL Elmhurst Hosp,Commercial,Q3 2018,-1194454.84
+IP,EL Elmhurst Hosp,Commercial,Q4 2018,-2059471.67
+IP,EL Elmhurst Hosp,Commercial,Q1 2019,-212034.26
+IP,EL Elmhurst Hosp,Commercial,Q2 2019,-11180.34
+IP,EL Elmhurst Hosp,Commercial,Q3 2019,-22427.48
+IP,EL Elmhurst Hosp,Commercial,Q4 2019,55303.03
+IP,EL Elmhurst Hosp,Commercial,Q1 2020,22583.21
+IP,EL Elmhurst Hosp,Commercial,Q2 2020,-10982.68
+IP,EL Elmhurst Hosp,Commercial Managed Care,Q3 2018,-387878.82
+IP,EL Elmhurst Hosp,Commercial Managed Care,Q4 2018,-871791.15
+IP,EL Elmhurst Hosp,Commercial Managed Care,Q1 2019,-77677.65
+IP,EL Elmhurst Hosp,Commercial Managed Care,Q2 2019,-78013.02
+IP,EL Elmhurst Hosp,Commercial Managed Care,Q3 2019,32097.17
+IP,EL Elmhurst Hosp,Commercial Managed Care,Q4 2019,-26835.4
+IP,EL Elmhurst Hosp,Commercial Managed Care,Q1 2020,0
+IP,EL Elmhurst Hosp,Commercial Managed Care,Q3 2020,49192.36
+IP,EL Elmhurst Hosp,Government/Other,Q2 2019,-1014
+IP,EL Elmhurst Hosp,Government/Other,Q4 2019,-1517.65
+IP,EL Elmhurst Hosp,Guar,Q3 2018,-14506.58
+IP,EL Elmhurst Hosp,Guar,Q4 2018,-45891.84
+IP,EL Elmhurst Hosp,Guar,Q1 2019,-39992.28
+IP,EL Elmhurst Hosp,Guar,Q2 2019,-24601.04
+IP,EL Elmhurst Hosp,Guar,Q3 2019,-3513
+IP,EL Elmhurst Hosp,Guar,Q4 2019,-1045
+IP,EL Elmhurst Hosp,Guar,Q1 2020,-550
+IP,EL Elmhurst Hosp,Guar,Q2 2020,-268
+IP,EL Elmhurst Hosp,Medicaid,Q3 2018,-11995725.89
+IP,EL Elmhurst Hosp,Medicaid,Q4 2018,-13771785.79
+IP,EL Elmhurst Hosp,Medicaid,Q1 2019,454435.97
+IP,EL Elmhurst Hosp,Medicaid,Q2 2019,-10327.57
+IP,EL Elmhurst Hosp,Medicaid,Q3 2019,-15334.8
+IP,EL Elmhurst Hosp,Medicaid,Q4 2019,-8582.74
+IP,EL Elmhurst Hosp,Medicaid,Q1 2020,0
+IP,EL Elmhurst Hosp,Medicaid,Q2 2020,0
+IP,EL Elmhurst Hosp,Medicaid,Q3 2020,0
+IP,EL Elmhurst Hosp,Medicaid MC,Q3 2018,-2924177.94
+IP,EL Elmhurst Hosp,Medicaid MC,Q4 2018,-4274189.44
+IP,EL Elmhurst Hosp,Medicaid MC,Q1 2019,-1240083.91
+IP,EL Elmhurst Hosp,Medicaid MC,Q2 2019,-241833.83
+IP,EL Elmhurst Hosp,Medicaid MC,Q3 2019,39810.19
+IP,EL Elmhurst Hosp,Medicaid MC,Q4 2019,-11169.74
+IP,EL Elmhurst Hosp,Medicaid MC,Q1 2020,-2404.27
+IP,EL Elmhurst Hosp,Medicaid MC,Q2 2020,5024.77
+IP,EL Elmhurst Hosp,Medicaid MC,Q3 2020,25896.99
+IP,EL Elmhurst Hosp,Medicare,Q3 2018,-7858498.45
+IP,EL Elmhurst Hosp,Medicare,Q4 2018,-6849212.03
+IP,EL Elmhurst Hosp,Medicare,Q1 2019,-134290.59
+IP,EL Elmhurst Hosp,Medicare,Q2 2019,58965.19
+IP,EL Elmhurst Hosp,Medicare,Q3 2019,55022.27
+IP,EL Elmhurst Hosp,Medicare,Q4 2019,-40306.69
+IP,EL Elmhurst Hosp,Medicare MC,Q3 2018,-3269635.06
+IP,EL Elmhurst Hosp,Medicare MC,Q4 2018,-4361025.98
+IP,EL Elmhurst Hosp,Medicare MC,Q1 2019,-721217.38
+IP,EL Elmhurst Hosp,Medicare MC,Q2 2019,-627991.41
+IP,EL Elmhurst Hosp,Medicare MC,Q3 2019,-22855.06
+IP,EL Elmhurst Hosp,Medicare MC,Q4 2019,-35551.25
+IP,EL Elmhurst Hosp,Medicare MC,Q1 2020,-31391.6
+IP,EL Elmhurst Hosp,Medicare MC,Q2 2020,14731.04
+IP,EL Elmhurst Hosp,MetroPlus Commercial,Q3 2018,-140178.29
+IP,EL Elmhurst Hosp,MetroPlus Commercial,Q4 2018,-162170.17
+IP,EL Elmhurst Hosp,MetroPlus Commercial,Q1 2019,0
+IP,EL Elmhurst Hosp,MetroPlus Commercial,Q2 2019,-3893.31
+IP,EL Elmhurst Hosp,MetroPlus Commercial,Q3 2019,0
+IP,EL Elmhurst Hosp,MetroPlus Medicaid,Q3 2018,-2882391.39
+IP,EL Elmhurst Hosp,MetroPlus Medicaid,Q4 2018,-1946113.22
+IP,EL Elmhurst Hosp,MetroPlus Medicaid,Q1 2019,-12713.13
+IP,EL Elmhurst Hosp,MetroPlus Medicaid,Q2 2019,24724.47
+IP,EL Elmhurst Hosp,MetroPlus Medicaid,Q3 2019,71382.37
+IP,EL Elmhurst Hosp,MetroPlus Medicaid,Q4 2019,-3408.74
+IP,EL Elmhurst Hosp,MetroPlus Medicare,Q3 2018,-191595.11
+IP,EL Elmhurst Hosp,MetroPlus Medicare,Q4 2018,-268860.52
+IP,EL Elmhurst Hosp,MetroPlus Medicare,Q1 2019,-18803.31
+IP,EL Elmhurst Hosp,MetroPlus Medicare,Q2 2019,0
+IP,EL Elmhurst Hosp,MetroPlus Medicare,Q3 2019,10224.03
+IP,EL Elmhurst Hosp,MetroPlus Medicare,Q4 2019,0
+IP,EL Elmhurst Hosp,No Fault,Q3 2018,-15464.91
+IP,EL Elmhurst Hosp,No Fault,Q4 2018,-249965.06
+IP,EL Elmhurst Hosp,No Fault,Q1 2019,-211946.06
+IP,EL Elmhurst Hosp,No Fault,Q2 2019,-96836.79
+IP,EL Elmhurst Hosp,No Fault,Q3 2019,-27946.64
+IP,EL Elmhurst Hosp,No Fault,Q1 2020,-12479.63
+IP,EL Elmhurst Hosp,No Fault,Q2 2020,-8547.75
+IP,EL Elmhurst Hosp,Workers Comp,Q4 2018,-110825.49
+IP,EL Elmhurst Hosp,Workers Comp,Q1 2019,-231353.49
+IP,EL Elmhurst Hosp,Workers Comp,Q2 2019,-51490.37
+IP,QU Queens Hosp,Commercial,Q3 2018,-716211.31
+IP,QU Queens Hosp,Commercial,Q4 2018,-836993.34
+IP,QU Queens Hosp,Commercial,Q1 2019,-87049.22
+IP,QU Queens Hosp,Commercial,Q2 2019,-27919.38
+IP,QU Queens Hosp,Commercial,Q3 2019,-1050.91
+IP,QU Queens Hosp,Commercial,Q4 2019,-202.2
+IP,QU Queens Hosp,Commercial,Q1 2020,7945.64
+IP,QU Queens Hosp,Commercial,Q2 2020,-2458.57
+IP,QU Queens Hosp,Commercial Managed Care,Q3 2018,-322058.35
+IP,QU Queens Hosp,Commercial Managed Care,Q4 2018,-516498.2
+IP,QU Queens Hosp,Commercial Managed Care,Q1 2019,-111350.67
+IP,QU Queens Hosp,Commercial Managed Care,Q2 2019,-21029.41
+IP,QU Queens Hosp,Commercial Managed Care,Q3 2019,-3083.56
+IP,QU Queens Hosp,Commercial Managed Care,Q4 2019,-3263.98
+IP,QU Queens Hosp,Commercial Managed Care,Q1 2020,-15308
+IP,QU Queens Hosp,Commercial Managed Care,Q2 2020,5937.22
+IP,QU Queens Hosp,Commercial Managed Care,Q3 2020,9002.88
+IP,QU Queens Hosp,Government/Other,Q4 2018,-18801.37
+IP,QU Queens Hosp,Government/Other,Q2 2019,-36665.72
+IP,QU Queens Hosp,Guar,Q3 2018,-79043.29
+IP,QU Queens Hosp,Guar,Q4 2018,-54286.32
+IP,QU Queens Hosp,Guar,Q1 2019,-19333.45
+IP,QU Queens Hosp,Guar,Q2 2019,-20120.18
+IP,QU Queens Hosp,Guar,Q3 2019,-17013.85
+IP,QU Queens Hosp,Guar,Q4 2019,-7281.59
+IP,QU Queens Hosp,Guar,Q1 2020,-1800
+IP,QU Queens Hosp,Guar,Q2 2020,-300
+IP,QU Queens Hosp,Guar,Q3 2020,-1214.81
+IP,QU Queens Hosp,Medicaid,Q3 2018,-9188589.54
+IP,QU Queens Hosp,Medicaid,Q4 2018,-6776293.5
+IP,QU Queens Hosp,Medicaid,Q1 2019,289164.48
+IP,QU Queens Hosp,Medicaid,Q2 2019,28019.25
+IP,QU Queens Hosp,Medicaid,Q3 2019,-611.28
+IP,QU Queens Hosp,Medicaid,Q4 2019,0
+IP,QU Queens Hosp,Medicaid,Q1 2020,0
+IP,QU Queens Hosp,Medicaid,Q2 2020,15308
+IP,QU Queens Hosp,Medicaid,Q3 2020,0
+IP,QU Queens Hosp,Medicaid MC,Q3 2018,-2089285.22
+IP,QU Queens Hosp,Medicaid MC,Q4 2018,-2713862.71
+IP,QU Queens Hosp,Medicaid MC,Q1 2019,-1106492.01
+IP,QU Queens Hosp,Medicaid MC,Q2 2019,-55669.71
+IP,QU Queens Hosp,Medicaid MC,Q3 2019,-84677.78
+IP,QU Queens Hosp,Medicaid MC,Q4 2019,-63191.49
+IP,QU Queens Hosp,Medicaid MC,Q1 2020,155.88
+IP,QU Queens Hosp,Medicaid MC,Q2 2020,-10350.49
+IP,QU Queens Hosp,Medicaid MC,Q3 2020,7472.67
+IP,QU Queens Hosp,Medicare,Q3 2018,-4052714.38
+IP,QU Queens Hosp,Medicare,Q4 2018,-3599426.24
+IP,QU Queens Hosp,Medicare,Q1 2019,-125262.78
+IP,QU Queens Hosp,Medicare,Q2 2019,-73277.3
+IP,QU Queens Hosp,Medicare,Q3 2019,-3928.74
+IP,QU Queens Hosp,Medicare MC,Q3 2018,-1690904.42
+IP,QU Queens Hosp,Medicare MC,Q4 2018,-3169052.19
+IP,QU Queens Hosp,Medicare MC,Q1 2019,-727943.98
+IP,QU Queens Hosp,Medicare MC,Q2 2019,-53445.67
+IP,QU Queens Hosp,Medicare MC,Q3 2019,-93590.23
+IP,QU Queens Hosp,Medicare MC,Q4 2019,-47505.79
+IP,QU Queens Hosp,Medicare MC,Q1 2020,-7965.3
+IP,QU Queens Hosp,Medicare MC,Q2 2020,1991.04
+IP,QU Queens Hosp,Medicare MC,Q3 2020,60.33
+IP,QU Queens Hosp,MetroPlus Commercial,Q3 2018,-68704.48
+IP,QU Queens Hosp,MetroPlus Commercial,Q4 2018,-57385.1
+IP,QU Queens Hosp,MetroPlus Commercial,Q1 2019,-1563.6
+IP,QU Queens Hosp,MetroPlus Medicaid,Q3 2018,-1871409.91
+IP,QU Queens Hosp,MetroPlus Medicaid,Q4 2018,-1022440.14
+IP,QU Queens Hosp,MetroPlus Medicaid,Q1 2019,-52916.7
+IP,QU Queens Hosp,MetroPlus Medicaid,Q2 2019,-6881.74
+IP,QU Queens Hosp,MetroPlus Medicaid,Q3 2019,-1615.89
+IP,QU Queens Hosp,MetroPlus Medicaid,Q4 2019,-1593.85
+IP,QU Queens Hosp,MetroPlus Medicare,Q3 2018,-86805.83
+IP,QU Queens Hosp,MetroPlus Medicare,Q4 2018,-312423.82
+IP,QU Queens Hosp,MetroPlus Medicare,Q1 2019,-39.09
+IP,QU Queens Hosp,MetroPlus Medicare,Q2 2019,-7894.29
+IP,QU Queens Hosp,MetroPlus Medicare,Q3 2019,0
+IP,CI Coney Island Hosp,Commercial,Q3 2018,-568038.15
+IP,CI Coney Island Hosp,Commercial,Q4 2018,-1044138.88
+IP,CI Coney Island Hosp,Commercial,Q1 2019,-63459.29
+IP,CI Coney Island Hosp,Commercial,Q2 2019,47687.31
+IP,CI Coney Island Hosp,Commercial,Q3 2019,-2080
+IP,CI Coney Island Hosp,Commercial,Q4 2019,-20525
+IP,CI Coney Island Hosp,Commercial,Q1 2020,0
+IP,CI Coney Island Hosp,Commercial,Q2 2020,0
+IP,CI Coney Island Hosp,Commercial Managed Care,Q3 2018,-243674.53
+IP,CI Coney Island Hosp,Commercial Managed Care,Q4 2018,-287139.35
+IP,CI Coney Island Hosp,Commercial Managed Care,Q1 2019,-102824.91
+IP,CI Coney Island Hosp,Commercial Managed Care,Q2 2019,-15804.45
+IP,CI Coney Island Hosp,Commercial Managed Care,Q3 2019,-4564
+IP,CI Coney Island Hosp,Commercial Managed Care,Q4 2019,0
+IP,CI Coney Island Hosp,Commercial Managed Care,Q1 2020,0
+IP,CI Coney Island Hosp,Government/Other,Q3 2018,-1340
+IP,CI Coney Island Hosp,Government/Other,Q4 2018,-1340
+IP,CI Coney Island Hosp,Guar,Q3 2018,-39670.38
+IP,CI Coney Island Hosp,Guar,Q4 2018,-10159.88
+IP,CI Coney Island Hosp,Guar,Q1 2019,-11529.22
+IP,CI Coney Island Hosp,Guar,Q2 2019,-23270.49
+IP,CI Coney Island Hosp,Guar,Q3 2019,-9666
+IP,CI Coney Island Hosp,Guar,Q4 2019,-1520
+IP,CI Coney Island Hosp,Guar,Q1 2020,-2557.6
+IP,CI Coney Island Hosp,Guar,Q2 2020,-1750
+IP,CI Coney Island Hosp,Guar,Q3 2020,-59.92
+IP,CI Coney Island Hosp,Medicaid,Q3 2018,-6622303.13
+IP,CI Coney Island Hosp,Medicaid,Q4 2018,-4477779.97
+IP,CI Coney Island Hosp,Medicaid,Q1 2019,-370690.05
+IP,CI Coney Island Hosp,Medicaid,Q2 2019,15693.98
+IP,CI Coney Island Hosp,Medicaid,Q3 2019,-2871.96
+IP,CI Coney Island Hosp,Medicaid,Q4 2019,-540.11
+IP,CI Coney Island Hosp,Medicaid,Q1 2020,-2680
+IP,CI Coney Island Hosp,Medicaid,Q2 2020,-2042.99
+IP,CI Coney Island Hosp,Medicaid,Q3 2020,0
+IP,CI Coney Island Hosp,Medicaid MC,Q3 2018,-2326949.03
+IP,CI Coney Island Hosp,Medicaid MC,Q4 2018,-3343060.33
+IP,CI Coney Island Hosp,Medicaid MC,Q1 2019,-568967.27
+IP,CI Coney Island Hosp,Medicaid MC,Q2 2019,-91531.79
+IP,CI Coney Island Hosp,Medicaid MC,Q3 2019,-52538.02
+IP,CI Coney Island Hosp,Medicaid MC,Q4 2019,-14822.03
+IP,CI Coney Island Hosp,Medicaid MC,Q1 2020,-62156.3
+IP,CI Coney Island Hosp,Medicaid MC,Q2 2020,-13395.82
+IP,CI Coney Island Hosp,Medicaid MC,Q3 2020,19202.28
+IP,CI Coney Island Hosp,Medicare,Q3 2018,-10178751.15
+IP,CI Coney Island Hosp,Medicare,Q4 2018,-6755996.98
+IP,CI Coney Island Hosp,Medicare,Q1 2019,86866.12
+IP,CI Coney Island Hosp,Medicare,Q2 2019,146.36
+IP,CI Coney Island Hosp,Medicare,Q3 2019,-8380.24
+IP,CI Coney Island Hosp,Medicare,Q4 2019,0
+IP,CI Coney Island Hosp,Medicare MC,Q3 2018,-1604511.16
+IP,CI Coney Island Hosp,Medicare MC,Q4 2018,-2586288.01
+IP,CI Coney Island Hosp,Medicare MC,Q1 2019,-305643.59
+IP,CI Coney Island Hosp,Medicare MC,Q2 2019,-37539.06
+IP,CI Coney Island Hosp,Medicare MC,Q3 2019,62372.7
+IP,CI Coney Island Hosp,Medicare MC,Q4 2019,-106692.83
+IP,CI Coney Island Hosp,Medicare MC,Q1 2020,-8031.47
+IP,CI Coney Island Hosp,MetroPlus Commercial,Q3 2018,-154023.82
+IP,CI Coney Island Hosp,MetroPlus Commercial,Q4 2018,-217989.26
+IP,CI Coney Island Hosp,MetroPlus Commercial,Q1 2019,-6129.16
+IP,CI Coney Island Hosp,MetroPlus Commercial,Q2 2019,1555.6
+IP,CI Coney Island Hosp,MetroPlus Medicaid,Q3 2018,-1228950.23
+IP,CI Coney Island Hosp,MetroPlus Medicaid,Q4 2018,-550375.36
+IP,CI Coney Island Hosp,MetroPlus Medicaid,Q1 2019,-16573.17
+IP,CI Coney Island Hosp,MetroPlus Medicaid,Q2 2019,-5565.01
+IP,CI Coney Island Hosp,MetroPlus Medicaid,Q3 2019,44911.83
+IP,CI Coney Island Hosp,MetroPlus Medicaid,Q2 2020,-47.09
+IP,CI Coney Island Hosp,MetroPlus Medicare,Q3 2018,-146546.42
+IP,CI Coney Island Hosp,MetroPlus Medicare,Q4 2018,-232132.69
+IP,CI Coney Island Hosp,MetroPlus Medicare,Q1 2019,0
+IP,CI Coney Island Hosp,MetroPlus Medicare,Q2 2019,-1659.6
+IP,CI Coney Island Hosp,No Fault,Q3 2018,-12446.42
+IP,CI Coney Island Hosp,No Fault,Q4 2018,-92504.49
+IP,CI Coney Island Hosp,No Fault,Q1 2019,-36957.42
+IP,CI Coney Island Hosp,No Fault,Q2 2019,-28659.71
+IP,CI Coney Island Hosp,No Fault,Q4 2019,-200
+IP,CI Coney Island Hosp,Workers Comp,Q4 2018,-53448.16
+IP,CI Coney Island Hosp,Workers Comp,Q2 2019,-10157.99
+OP,JA Jacobi Med Cntr,Commercial,Q3 2018,-983675.75
+OP,JA Jacobi Med Cntr,Commercial,Q4 2018,-1605533.67
+OP,JA Jacobi Med Cntr,Commercial,Q1 2019,-1856956.74
+OP,JA Jacobi Med Cntr,Commercial,Q2 2019,-1974457.32
+OP,JA Jacobi Med Cntr,Commercial,Q3 2019,-743099.11
+OP,JA Jacobi Med Cntr,Commercial,Q4 2019,-139098.41
+OP,JA Jacobi Med Cntr,Commercial,Q1 2020,-14235.11
+OP,JA Jacobi Med Cntr,Commercial,Q2 2020,-32275.18
+OP,JA Jacobi Med Cntr,Commercial,Q3 2020,7450.35
+OP,JA Jacobi Med Cntr,Commercial Managed Care,Q3 2018,-466240.83
+OP,JA Jacobi Med Cntr,Commercial Managed Care,Q4 2018,-722545.32
+OP,JA Jacobi Med Cntr,Commercial Managed Care,Q1 2019,-876599.42
+OP,JA Jacobi Med Cntr,Commercial Managed Care,Q2 2019,-1213102.52
+OP,JA Jacobi Med Cntr,Commercial Managed Care,Q3 2019,-463471.72
+OP,JA Jacobi Med Cntr,Commercial Managed Care,Q4 2019,-28169.6
+OP,JA Jacobi Med Cntr,Commercial Managed Care,Q1 2020,-22608.69
+OP,JA Jacobi Med Cntr,Commercial Managed Care,Q2 2020,-9244.64
+OP,JA Jacobi Med Cntr,Commercial Managed Care,Q3 2020,-5262.4
+OP,JA Jacobi Med Cntr,Government/Other,Q3 2018,-40378.06
+OP,JA Jacobi Med Cntr,Government/Other,Q4 2018,-101032.37
+OP,JA Jacobi Med Cntr,Government/Other,Q1 2019,-107967.22
+OP,JA Jacobi Med Cntr,Government/Other,Q2 2019,-219353.59
+OP,JA Jacobi Med Cntr,Government/Other,Q3 2019,-90030.12
+OP,JA Jacobi Med Cntr,Government/Other,Q4 2019,-36262.67
+OP,JA Jacobi Med Cntr,Government/Other,Q1 2020,-2944.9
+OP,JA Jacobi Med Cntr,Government/Other,Q2 2020,-978.57
+OP,JA Jacobi Med Cntr,Guar,Q3 2018,-88583.08
+OP,JA Jacobi Med Cntr,Guar,Q4 2018,-135930.55
+OP,JA Jacobi Med Cntr,Guar,Q1 2019,-200967.43
+OP,JA Jacobi Med Cntr,Guar,Q2 2019,-264237.35
+OP,JA Jacobi Med Cntr,Guar,Q3 2019,-173346.52
+OP,JA Jacobi Med Cntr,Guar,Q4 2019,-37064.7
+OP,JA Jacobi Med Cntr,Guar,Q1 2020,-11172.98
+OP,JA Jacobi Med Cntr,Guar,Q2 2020,-5498.21
+OP,JA Jacobi Med Cntr,Guar,Q3 2020,-4446.89
+OP,JA Jacobi Med Cntr,Medicaid,Q3 2018,-986614.88
+OP,JA Jacobi Med Cntr,Medicaid,Q4 2018,-1774711.98
+OP,JA Jacobi Med Cntr,Medicaid,Q1 2019,-2238455.28
+OP,JA Jacobi Med Cntr,Medicaid,Q2 2019,-2121560.24
+OP,JA Jacobi Med Cntr,Medicaid,Q3 2019,-741606.25
+OP,JA Jacobi Med Cntr,Medicaid,Q4 2019,-99093.95
+OP,JA Jacobi Med Cntr,Medicaid,Q1 2020,-11734.36
+OP,JA Jacobi Med Cntr,Medicaid,Q2 2020,43761.26
+OP,JA Jacobi Med Cntr,Medicaid,Q3 2020,0
+OP,JA Jacobi Med Cntr,Medicaid MC,Q3 2018,-1070988.92
+OP,JA Jacobi Med Cntr,Medicaid MC,Q4 2018,-1809082.78
+OP,JA Jacobi Med Cntr,Medicaid MC,Q1 2019,-3623027.69
+OP,JA Jacobi Med Cntr,Medicaid MC,Q2 2019,-3370809.43
+OP,JA Jacobi Med Cntr,Medicaid MC,Q3 2019,-1198804.63
+OP,JA Jacobi Med Cntr,Medicaid MC,Q4 2019,-174985.01
+OP,JA Jacobi Med Cntr,Medicaid MC,Q1 2020,-127661.89
+OP,JA Jacobi Med Cntr,Medicaid MC,Q2 2020,-79268.18
+OP,JA Jacobi Med Cntr,Medicaid MC,Q3 2020,19004.74
+OP,JA Jacobi Med Cntr,Medicare,Q3 2018,-560427.52
+OP,JA Jacobi Med Cntr,Medicare,Q4 2018,-844296.63
+OP,JA Jacobi Med Cntr,Medicare,Q1 2019,-713359.9
+OP,JA Jacobi Med Cntr,Medicare,Q2 2019,-890764.87
+OP,JA Jacobi Med Cntr,Medicare,Q3 2019,-441352.27
+OP,JA Jacobi Med Cntr,Medicare,Q4 2019,-153990.54
+OP,JA Jacobi Med Cntr,Medicare,Q1 2020,-53283.94
+OP,JA Jacobi Med Cntr,Medicare,Q2 2020,-3517.75
+OP,JA Jacobi Med Cntr,Medicare,Q3 2020,-336.8
+OP,JA Jacobi Med Cntr,Medicare MC,Q3 2018,-1443018.71
+OP,JA Jacobi Med Cntr,Medicare MC,Q4 2018,-1495557.31
+OP,JA Jacobi Med Cntr,Medicare MC,Q1 2019,-2417777.36
+OP,JA Jacobi Med Cntr,Medicare MC,Q2 2019,-1971696.6
+OP,JA Jacobi Med Cntr,Medicare MC,Q3 2019,-606879.18
+OP,JA Jacobi Med Cntr,Medicare MC,Q4 2019,-74354.22
+OP,JA Jacobi Med Cntr,Medicare MC,Q1 2020,-14518.08
+OP,JA Jacobi Med Cntr,Medicare MC,Q2 2020,-4213.31
+OP,JA Jacobi Med Cntr,Medicare MC,Q3 2020,5658.71
+OP,JA Jacobi Med Cntr,MetroPlus Commercial,Q3 2018,-83366.87
+OP,JA Jacobi Med Cntr,MetroPlus Commercial,Q4 2018,-154283.38
+OP,JA Jacobi Med Cntr,MetroPlus Commercial,Q1 2019,-186244.14
+OP,JA Jacobi Med Cntr,MetroPlus Commercial,Q2 2019,-231005.76
+OP,JA Jacobi Med Cntr,MetroPlus Commercial,Q3 2019,-65663.11
+OP,JA Jacobi Med Cntr,MetroPlus Commercial,Q4 2019,-6379.84
+OP,JA Jacobi Med Cntr,MetroPlus Commercial,Q1 2020,-4492.35
+OP,JA Jacobi Med Cntr,MetroPlus Commercial,Q2 2020,15063.94
+OP,JA Jacobi Med Cntr,MetroPlus Medicaid,Q3 2018,-2308240.55
+OP,JA Jacobi Med Cntr,MetroPlus Medicaid,Q4 2018,-3421291.05
+OP,JA Jacobi Med Cntr,MetroPlus Medicaid,Q1 2019,-4075355.17
+OP,JA Jacobi Med Cntr,MetroPlus Medicaid,Q2 2019,-3858861.02
+OP,JA Jacobi Med Cntr,MetroPlus Medicaid,Q3 2019,-979046.75
+OP,JA Jacobi Med Cntr,MetroPlus Medicaid,Q4 2019,-56932.04
+OP,JA Jacobi Med Cntr,MetroPlus Medicaid,Q1 2020,-41808.61
+OP,JA Jacobi Med Cntr,MetroPlus Medicaid,Q2 2020,309154.39
+OP,JA Jacobi Med Cntr,MetroPlus Medicaid,Q3 2020,1894.56
+OP,JA Jacobi Med Cntr,MetroPlus Medicare,Q3 2018,-136873.73
+OP,JA Jacobi Med Cntr,MetroPlus Medicare,Q4 2018,-160297.96
+OP,JA Jacobi Med Cntr,MetroPlus Medicare,Q1 2019,-169705.3
+OP,JA Jacobi Med Cntr,MetroPlus Medicare,Q2 2019,-282856.88
+OP,JA Jacobi Med Cntr,MetroPlus Medicare,Q3 2019,-88404.8
+OP,JA Jacobi Med Cntr,MetroPlus Medicare,Q4 2019,-8604.32
+OP,JA Jacobi Med Cntr,MetroPlus Medicare,Q1 2020,8725.59
+OP,JA Jacobi Med Cntr,MetroPlus Medicare,Q2 2020,51.99
+OP,JA Jacobi Med Cntr,MetroPlus Medicare,Q3 2020,-160.73
+OP,JA Jacobi Med Cntr,No Fault,Q3 2018,-31242.4
+OP,JA Jacobi Med Cntr,No Fault,Q4 2018,-98729.91
+OP,JA Jacobi Med Cntr,No Fault,Q1 2019,-240504.72
+OP,JA Jacobi Med Cntr,No Fault,Q2 2019,-300008.59
+OP,JA Jacobi Med Cntr,No Fault,Q3 2019,-202437.99
+OP,JA Jacobi Med Cntr,No Fault,Q4 2019,-107143.55
+OP,JA Jacobi Med Cntr,No Fault,Q1 2020,-50458.17
+OP,JA Jacobi Med Cntr,No Fault,Q2 2020,-27122.25
+OP,JA Jacobi Med Cntr,No Fault,Q3 2020,-4590.4
+OP,JA Jacobi Med Cntr,Workers Comp,Q3 2018,-6631.22
+OP,JA Jacobi Med Cntr,Workers Comp,Q4 2018,-33504.86
+OP,JA Jacobi Med Cntr,Workers Comp,Q1 2019,-24054.34
+OP,JA Jacobi Med Cntr,Workers Comp,Q2 2019,-32710.44
+OP,JA Jacobi Med Cntr,Workers Comp,Q3 2019,-24773.89
+OP,JA Jacobi Med Cntr,Workers Comp,Q4 2019,-4678.9
+OP,JA Jacobi Med Cntr,Workers Comp,Q1 2020,-6027.56
+OP,JA Jacobi Med Cntr,Workers Comp,Q2 2020,-2036.42
+OP,NO NCB Hosp,Commercial,Q3 2018,-345768.62
+OP,NO NCB Hosp,Commercial,Q4 2018,-564791.02
+OP,NO NCB Hosp,Commercial,Q1 2019,-635891.37
+OP,NO NCB Hosp,Commercial,Q2 2019,-708030.58
+OP,NO NCB Hosp,Commercial,Q3 2019,-298474.15
+OP,NO NCB Hosp,Commercial,Q4 2019,-47449.91
+OP,NO NCB Hosp,Commercial,Q1 2020,-6746.16
+OP,NO NCB Hosp,Commercial,Q2 2020,-9234.5
+OP,NO NCB Hosp,Commercial,Q3 2020,1188.27
+OP,NO NCB Hosp,Commercial Managed Care,Q3 2018,-192410.71
+OP,NO NCB Hosp,Commercial Managed Care,Q4 2018,-347026.97
+OP,NO NCB Hosp,Commercial Managed Care,Q1 2019,-472887.08
+OP,NO NCB Hosp,Commercial Managed Care,Q2 2019,-494858.24
+OP,NO NCB Hosp,Commercial Managed Care,Q3 2019,-293698.01
+OP,NO NCB Hosp,Commercial Managed Care,Q4 2019,-49591.61
+OP,NO NCB Hosp,Commercial Managed Care,Q1 2020,-18554.8
+OP,NO NCB Hosp,Commercial Managed Care,Q2 2020,-8733.45
+OP,NO NCB Hosp,Commercial Managed Care,Q3 2020,-3695.37
+OP,NO NCB Hosp,Government/Other,Q3 2018,-5149.78
+OP,NO NCB Hosp,Government/Other,Q4 2018,-31294.74
+OP,NO NCB Hosp,Government/Other,Q1 2019,-42381.27
+OP,NO NCB Hosp,Government/Other,Q2 2019,-67061.5
+OP,NO NCB Hosp,Government/Other,Q3 2019,-53156.1
+OP,NO NCB Hosp,Government/Other,Q4 2019,-17682.05
+OP,NO NCB Hosp,Government/Other,Q1 2020,-12635.03
+OP,NO NCB Hosp,Guar,Q3 2018,-31239.33
+OP,NO NCB Hosp,Guar,Q4 2018,-39084.27
+OP,NO NCB Hosp,Guar,Q1 2019,-54639.67
+OP,NO NCB Hosp,Guar,Q2 2019,-86333.08
+OP,NO NCB Hosp,Guar,Q3 2019,-52913.81
+OP,NO NCB Hosp,Guar,Q4 2019,-15359.56
+OP,NO NCB Hosp,Guar,Q1 2020,-4664.83
+OP,NO NCB Hosp,Guar,Q2 2020,-345.13
+OP,NO NCB Hosp,Guar,Q3 2020,-362.92
+OP,NO NCB Hosp,Medicaid,Q3 2018,-292175.87
+OP,NO NCB Hosp,Medicaid,Q4 2018,-579371.88
+OP,NO NCB Hosp,Medicaid,Q1 2019,-625202.46
+OP,NO NCB Hosp,Medicaid,Q2 2019,-629357.62
+OP,NO NCB Hosp,Medicaid,Q3 2019,-220443.73
+OP,NO NCB Hosp,Medicaid,Q4 2019,-2624.88
+OP,NO NCB Hosp,Medicaid,Q1 2020,1236.66
+OP,NO NCB Hosp,Medicaid,Q2 2020,11157.16
+OP,NO NCB Hosp,Medicaid,Q3 2020,0
+OP,NO NCB Hosp,Medicaid MC,Q3 2018,-469364.06
+OP,NO NCB Hosp,Medicaid MC,Q4 2018,-697170.46
+OP,NO NCB Hosp,Medicaid MC,Q1 2019,-1331742.27
+OP,NO NCB Hosp,Medicaid MC,Q2 2019,-1540248.24
+OP,NO NCB Hosp,Medicaid MC,Q3 2019,-607734.14
+OP,NO NCB Hosp,Medicaid MC,Q4 2019,-124748.24
+OP,NO NCB Hosp,Medicaid MC,Q1 2020,-64357.92
+OP,NO NCB Hosp,Medicaid MC,Q2 2020,-22462.44
+OP,NO NCB Hosp,Medicaid MC,Q3 2020,12529.17
+OP,NO NCB Hosp,Medicare,Q3 2018,-191958.69
+OP,NO NCB Hosp,Medicare,Q4 2018,-291927.24
+OP,NO NCB Hosp,Medicare,Q1 2019,-251098.44
+OP,NO NCB Hosp,Medicare,Q2 2019,-264932.07
+OP,NO NCB Hosp,Medicare,Q3 2019,-112164.21
+OP,NO NCB Hosp,Medicare,Q4 2019,-25705.38
+OP,NO NCB Hosp,Medicare,Q1 2020,547.38
+OP,NO NCB Hosp,Medicare,Q2 2020,-424.73
+OP,NO NCB Hosp,Medicare,Q3 2020,-243.21
+OP,NO NCB Hosp,Medicare MC,Q3 2018,-561185.37
+OP,NO NCB Hosp,Medicare MC,Q4 2018,-653684.59
+OP,NO NCB Hosp,Medicare MC,Q1 2019,-875987.94
+OP,NO NCB Hosp,Medicare MC,Q2 2019,-753572.82
+OP,NO NCB Hosp,Medicare MC,Q3 2019,-254817.58
+OP,NO NCB Hosp,Medicare MC,Q4 2019,-7082.16
+OP,NO NCB Hosp,Medicare MC,Q1 2020,3617.75
+OP,NO NCB Hosp,Medicare MC,Q2 2020,-340.76
+OP,NO NCB Hosp,Medicare MC,Q3 2020,8610.3
+OP,NO NCB Hosp,MetroPlus Commercial,Q3 2018,-43840.76
+OP,NO NCB Hosp,MetroPlus Commercial,Q4 2018,-55978.52
+OP,NO NCB Hosp,MetroPlus Commercial,Q1 2019,-68957.1
+OP,NO NCB Hosp,MetroPlus Commercial,Q2 2019,-71458.34
+OP,NO NCB Hosp,MetroPlus Commercial,Q3 2019,-22760.33
+OP,NO NCB Hosp,MetroPlus Commercial,Q4 2019,-962.2
+OP,NO NCB Hosp,MetroPlus Commercial,Q1 2020,-264.48
+OP,NO NCB Hosp,MetroPlus Commercial,Q2 2020,3484.32
+OP,NO NCB Hosp,MetroPlus Medicaid,Q3 2018,-1326855.92
+OP,NO NCB Hosp,MetroPlus Medicaid,Q4 2018,-1607826.1
+OP,NO NCB Hosp,MetroPlus Medicaid,Q1 2019,-1750630.37
+OP,NO NCB Hosp,MetroPlus Medicaid,Q2 2019,-1712869.18
+OP,NO NCB Hosp,MetroPlus Medicaid,Q3 2019,-436671.37
+OP,NO NCB Hosp,MetroPlus Medicaid,Q4 2019,-19704.21
+OP,NO NCB Hosp,MetroPlus Medicaid,Q1 2020,-8661.53
+OP,NO NCB Hosp,MetroPlus Medicaid,Q2 2020,70754.26
+OP,NO NCB Hosp,MetroPlus Medicaid,Q3 2020,620.55
+OP,NO NCB Hosp,MetroPlus Medicare,Q3 2018,-68201.36
+OP,NO NCB Hosp,MetroPlus Medicare,Q4 2018,-104577.56
+OP,NO NCB Hosp,MetroPlus Medicare,Q1 2019,-57595.66
+OP,NO NCB Hosp,MetroPlus Medicare,Q2 2019,-80534.57
+OP,NO NCB Hosp,MetroPlus Medicare,Q3 2019,-12560.04
+OP,NO NCB Hosp,MetroPlus Medicare,Q4 2019,-243.82
+OP,NO NCB Hosp,MetroPlus Medicare,Q1 2020,0
+OP,NO NCB Hosp,MetroPlus Medicare,Q2 2020,0
+OP,NO NCB Hosp,MetroPlus Medicare,Q3 2020,-154.42
+OP,NO NCB Hosp,No Fault,Q4 2018,-3579.17
+OP,NO NCB Hosp,No Fault,Q1 2019,-11979.46
+OP,NO NCB Hosp,No Fault,Q2 2019,-11761.3
+OP,NO NCB Hosp,No Fault,Q3 2019,-13806.83
+OP,NO NCB Hosp,No Fault,Q4 2019,-3391.7
+OP,NO NCB Hosp,No Fault,Q1 2020,-8227.72
+OP,NO NCB Hosp,Workers Comp,Q4 2018,-5573.59
+OP,NO NCB Hosp,Workers Comp,Q1 2019,-3233.55
+OP,NO NCB Hosp,Workers Comp,Q2 2019,-6638.24
+OP,NO NCB Hosp,Workers Comp,Q3 2019,-2781.64
+OP,NO NCB Hosp,Workers Comp,Q1 2020,-197.6
+OP,NO NCB Hosp,Workers Comp,Q2 2020,-869.64
+OP,EL Elmhurst Hosp,Commercial,Q3 2018,-757972.64
+OP,EL Elmhurst Hosp,Commercial,Q4 2018,-740875.81
+OP,EL Elmhurst Hosp,Commercial,Q1 2019,-91370.96
+OP,EL Elmhurst Hosp,Commercial,Q2 2019,41154.42
+OP,EL Elmhurst Hosp,Commercial,Q3 2019,-20197.63
+OP,EL Elmhurst Hosp,Commercial,Q4 2019,13481.69
+OP,EL Elmhurst Hosp,Commercial,Q1 2020,810.49
+OP,EL Elmhurst Hosp,Commercial,Q2 2020,301
+OP,EL Elmhurst Hosp,Commercial,Q3 2020,0
+OP,EL Elmhurst Hosp,Commercial Managed Care,Q3 2018,-448129.29
+OP,EL Elmhurst Hosp,Commercial Managed Care,Q4 2018,-381598.96
+OP,EL Elmhurst Hosp,Commercial Managed Care,Q1 2019,-19324.21
+OP,EL Elmhurst Hosp,Commercial Managed Care,Q2 2019,-47773.96
+OP,EL Elmhurst Hosp,Commercial Managed Care,Q3 2019,-5570.06
+OP,EL Elmhurst Hosp,Commercial Managed Care,Q4 2019,-2581.81
+OP,EL Elmhurst Hosp,Commercial Managed Care,Q1 2020,-417.63
+OP,EL Elmhurst Hosp,Commercial Managed Care,Q2 2020,-612.3
+OP,EL Elmhurst Hosp,Commercial Managed Care,Q3 2020,-60206.33
+OP,EL Elmhurst Hosp,Government/Other,Q3 2018,-78832.41
+OP,EL Elmhurst Hosp,Government/Other,Q4 2018,-175159.33
+OP,EL Elmhurst Hosp,Government/Other,Q1 2019,-49573.85
+OP,EL Elmhurst Hosp,Government/Other,Q2 2019,-98503.47
+OP,EL Elmhurst Hosp,Government/Other,Q3 2019,-47749.46
+OP,EL Elmhurst Hosp,Government/Other,Q4 2019,-5743.58
+OP,EL Elmhurst Hosp,Government/Other,Q1 2020,-418.84
+OP,EL Elmhurst Hosp,Guar,Q3 2018,-217119.09
+OP,EL Elmhurst Hosp,Guar,Q4 2018,-222088.87
+OP,EL Elmhurst Hosp,Guar,Q1 2019,-122961.79
+OP,EL Elmhurst Hosp,Guar,Q2 2019,-58486.05
+OP,EL Elmhurst Hosp,Guar,Q3 2019,-20228.72
+OP,EL Elmhurst Hosp,Guar,Q4 2019,-5672.87
+OP,EL Elmhurst Hosp,Guar,Q1 2020,-6982.37
+OP,EL Elmhurst Hosp,Guar,Q2 2020,-152
+OP,EL Elmhurst Hosp,Guar,Q3 2020,-1276
+OP,EL Elmhurst Hosp,Medicaid,Q3 2018,-1390068.06
+OP,EL Elmhurst Hosp,Medicaid,Q4 2018,-1073519.68
+OP,EL Elmhurst Hosp,Medicaid,Q1 2019,-71887.8
+OP,EL Elmhurst Hosp,Medicaid,Q2 2019,-4624.98
+OP,EL Elmhurst Hosp,Medicaid,Q3 2019,-7180.64
+OP,EL Elmhurst Hosp,Medicaid,Q4 2019,-17757.79
+OP,EL Elmhurst Hosp,Medicaid,Q1 2020,-1159.25
+OP,EL Elmhurst Hosp,Medicaid,Q2 2020,712.17
+OP,EL Elmhurst Hosp,Medicaid,Q3 2020,0
+OP,EL Elmhurst Hosp,Medicaid MC,Q3 2018,-1269887.26
+OP,EL Elmhurst Hosp,Medicaid MC,Q4 2018,-1917211.65
+OP,EL Elmhurst Hosp,Medicaid MC,Q1 2019,-193722.21
+OP,EL Elmhurst Hosp,Medicaid MC,Q2 2019,-73577.07
+OP,EL Elmhurst Hosp,Medicaid MC,Q3 2019,-17925.44
+OP,EL Elmhurst Hosp,Medicaid MC,Q4 2019,-16089.32
+OP,EL Elmhurst Hosp,Medicaid MC,Q1 2020,-33901.6
+OP,EL Elmhurst Hosp,Medicaid MC,Q2 2020,-29685.18
+OP,EL Elmhurst Hosp,Medicaid MC,Q3 2020,18368.66
+OP,EL Elmhurst Hosp,Medicare,Q3 2018,-846445.41
+OP,EL Elmhurst Hosp,Medicare,Q4 2018,-807073.92
+OP,EL Elmhurst Hosp,Medicare,Q1 2019,-19849.19
+OP,EL Elmhurst Hosp,Medicare,Q2 2019,-27932.42
+OP,EL Elmhurst Hosp,Medicare,Q3 2019,-16968.58
+OP,EL Elmhurst Hosp,Medicare,Q4 2019,-286.45
+OP,EL Elmhurst Hosp,Medicare,Q1 2020,39537.57
+OP,EL Elmhurst Hosp,Medicare MC,Q3 2018,-1188301.95
+OP,EL Elmhurst Hosp,Medicare MC,Q4 2018,-994655.07
+OP,EL Elmhurst Hosp,Medicare MC,Q1 2019,-90826.62
+OP,EL Elmhurst Hosp,Medicare MC,Q2 2019,-278718.58
+OP,EL Elmhurst Hosp,Medicare MC,Q3 2019,24458.75
+OP,EL Elmhurst Hosp,Medicare MC,Q4 2019,27994.49
+OP,EL Elmhurst Hosp,Medicare MC,Q1 2020,-425.88
+OP,EL Elmhurst Hosp,Medicare MC,Q2 2020,-724.8
+OP,EL Elmhurst Hosp,Medicare MC,Q3 2020,27223.94
+OP,EL Elmhurst Hosp,MetroPlus Commercial,Q3 2018,-248803.81
+OP,EL Elmhurst Hosp,MetroPlus Commercial,Q4 2018,-140418
+OP,EL Elmhurst Hosp,MetroPlus Commercial,Q1 2019,-22397.56
+OP,EL Elmhurst Hosp,MetroPlus Commercial,Q2 2019,-1776.98
+OP,EL Elmhurst Hosp,MetroPlus Commercial,Q3 2019,-753.19
+OP,EL Elmhurst Hosp,MetroPlus Commercial,Q4 2019,-697.12
+OP,EL Elmhurst Hosp,MetroPlus Commercial,Q1 2020,-118.96
+OP,EL Elmhurst Hosp,MetroPlus Medicaid,Q3 2018,-2478330.13
+OP,EL Elmhurst Hosp,MetroPlus Medicaid,Q4 2018,-1601013.7
+OP,EL Elmhurst Hosp,MetroPlus Medicaid,Q1 2019,-164283.41
+OP,EL Elmhurst Hosp,MetroPlus Medicaid,Q2 2019,-17983.1
+OP,EL Elmhurst Hosp,MetroPlus Medicaid,Q3 2019,40956.39
+OP,EL Elmhurst Hosp,MetroPlus Medicaid,Q4 2019,-17440.54
+OP,EL Elmhurst Hosp,MetroPlus Medicaid,Q1 2020,-2478.16
+OP,EL Elmhurst Hosp,MetroPlus Medicaid,Q2 2020,713.66
+OP,EL Elmhurst Hosp,MetroPlus Medicare,Q3 2018,-192210.14
+OP,EL Elmhurst Hosp,MetroPlus Medicare,Q4 2018,-77559.07
+OP,EL Elmhurst Hosp,MetroPlus Medicare,Q1 2019,348.53
+OP,EL Elmhurst Hosp,MetroPlus Medicare,Q2 2019,-3985.12
+OP,EL Elmhurst Hosp,MetroPlus Medicare,Q3 2019,-513.37
+OP,EL Elmhurst Hosp,MetroPlus Medicare,Q4 2019,0
+OP,EL Elmhurst Hosp,MetroPlus Medicare,Q1 2020,0
+OP,EL Elmhurst Hosp,MetroPlus Medicare,Q2 2020,0
+OP,EL Elmhurst Hosp,No Fault,Q3 2018,-64.07
+OP,EL Elmhurst Hosp,No Fault,Q4 2018,-9591.44
+OP,EL Elmhurst Hosp,No Fault,Q1 2019,-11855.31
+OP,EL Elmhurst Hosp,No Fault,Q2 2019,-25519.06
+OP,EL Elmhurst Hosp,No Fault,Q3 2019,-38590.47
+OP,EL Elmhurst Hosp,No Fault,Q4 2019,-7783.47
+OP,EL Elmhurst Hosp,No Fault,Q1 2020,-11404.73
+OP,EL Elmhurst Hosp,No Fault,Q2 2020,-2110.58
+OP,EL Elmhurst Hosp,No Fault,Q3 2020,-708.23
+OP,EL Elmhurst Hosp,Workers Comp,Q3 2018,-7734.45
+OP,EL Elmhurst Hosp,Workers Comp,Q4 2018,-38566.7
+OP,EL Elmhurst Hosp,Workers Comp,Q1 2019,-41737.4
+OP,EL Elmhurst Hosp,Workers Comp,Q2 2019,-20383.87
+OP,EL Elmhurst Hosp,Workers Comp,Q3 2019,-4363.41
+OP,EL Elmhurst Hosp,Workers Comp,Q4 2019,-3219.68
+OP,EL Elmhurst Hosp,Workers Comp,Q1 2020,-242.25
+OP,QU Queens Hosp,Commercial,Q3 2018,-799580.77
+OP,QU Queens Hosp,Commercial,Q4 2018,-772865.74
+OP,QU Queens Hosp,Commercial,Q1 2019,-90504.16
+OP,QU Queens Hosp,Commercial,Q2 2019,7372.6
+OP,QU Queens Hosp,Commercial,Q3 2019,-24510.64
+OP,QU Queens Hosp,Commercial,Q4 2019,-3545.08
+OP,QU Queens Hosp,Commercial,Q1 2020,-699.28
+OP,QU Queens Hosp,Commercial,Q2 2020,-23129.56
+OP,QU Queens Hosp,Commercial,Q3 2020,192.19
+OP,QU Queens Hosp,Commercial Managed Care,Q3 2018,-406658.98
+OP,QU Queens Hosp,Commercial Managed Care,Q4 2018,-464874.51
+OP,QU Queens Hosp,Commercial Managed Care,Q1 2019,-42267.73
+OP,QU Queens Hosp,Commercial Managed Care,Q2 2019,-17348.82
+OP,QU Queens Hosp,Commercial Managed Care,Q3 2019,-11
+OP,QU Queens Hosp,Commercial Managed Care,Q4 2019,-2416.85
+OP,QU Queens Hosp,Commercial Managed Care,Q1 2020,-553.66
+OP,QU Queens Hosp,Commercial Managed Care,Q2 2020,-887.91
+OP,QU Queens Hosp,Commercial Managed Care,Q3 2020,-11578.7
+OP,QU Queens Hosp,Government/Other,Q3 2018,-17927.62
+OP,QU Queens Hosp,Government/Other,Q4 2018,-39556.85
+OP,QU Queens Hosp,Government/Other,Q1 2019,-5718.63
+OP,QU Queens Hosp,Government/Other,Q2 2019,-11062.68
+OP,QU Queens Hosp,Government/Other,Q3 2019,-645.26
+OP,QU Queens Hosp,Government/Other,Q4 2019,-413.22
+OP,QU Queens Hosp,Guar,Q3 2018,-145420.93
+OP,QU Queens Hosp,Guar,Q4 2018,-94000.14
+OP,QU Queens Hosp,Guar,Q1 2019,-68859.16
+OP,QU Queens Hosp,Guar,Q2 2019,-53135.91
+OP,QU Queens Hosp,Guar,Q3 2019,-13368.51
+OP,QU Queens Hosp,Guar,Q4 2019,-1423.08
+OP,QU Queens Hosp,Guar,Q1 2020,-2231.61
+OP,QU Queens Hosp,Guar,Q2 2020,-1539.52
+OP,QU Queens Hosp,Guar,Q3 2020,-968
+OP,QU Queens Hosp,Medicaid,Q3 2018,-1762906.08
+OP,QU Queens Hosp,Medicaid,Q4 2018,-1415021.31
+OP,QU Queens Hosp,Medicaid,Q1 2019,-60337.31
+OP,QU Queens Hosp,Medicaid,Q2 2019,-10200.23
+OP,QU Queens Hosp,Medicaid,Q3 2019,-6981.59
+OP,QU Queens Hosp,Medicaid,Q4 2019,-8350.02
+OP,QU Queens Hosp,Medicaid,Q1 2020,-329.38
+OP,QU Queens Hosp,Medicaid,Q2 2020,-151.31
+OP,QU Queens Hosp,Medicaid,Q3 2020,0
+OP,QU Queens Hosp,Medicaid MC,Q3 2018,-1207802.35
+OP,QU Queens Hosp,Medicaid MC,Q4 2018,-1345175.06
+OP,QU Queens Hosp,Medicaid MC,Q1 2019,-200616.68
+OP,QU Queens Hosp,Medicaid MC,Q2 2019,-34029.9
+OP,QU Queens Hosp,Medicaid MC,Q3 2019,-81078.02
+OP,QU Queens Hosp,Medicaid MC,Q4 2019,-21742.76
+OP,QU Queens Hosp,Medicaid MC,Q1 2020,-3049.27
+OP,QU Queens Hosp,Medicaid MC,Q2 2020,-18604.59
+OP,QU Queens Hosp,Medicaid MC,Q3 2020,-3291.1
+OP,QU Queens Hosp,Medicare,Q3 2018,-552652.28
+OP,QU Queens Hosp,Medicare,Q4 2018,-557046.09
+OP,QU Queens Hosp,Medicare,Q1 2019,-50377.94
+OP,QU Queens Hosp,Medicare,Q2 2019,-51678.89
+OP,QU Queens Hosp,Medicare,Q3 2019,-10821.62
+OP,QU Queens Hosp,Medicare,Q4 2019,-838.88
+OP,QU Queens Hosp,Medicare MC,Q3 2018,-1261836.72
+OP,QU Queens Hosp,Medicare MC,Q4 2018,-1055313.15
+OP,QU Queens Hosp,Medicare MC,Q1 2019,-143817.64
+OP,QU Queens Hosp,Medicare MC,Q2 2019,-16628.56
+OP,QU Queens Hosp,Medicare MC,Q3 2019,-5176.28
+OP,QU Queens Hosp,Medicare MC,Q4 2019,-4087.54
+OP,QU Queens Hosp,Medicare MC,Q1 2020,1038.81
+OP,QU Queens Hosp,Medicare MC,Q2 2020,-10392.58
+OP,QU Queens Hosp,Medicare MC,Q3 2020,-1549.23
+OP,QU Queens Hosp,MetroPlus Commercial,Q3 2018,-119261.75
+OP,QU Queens Hosp,MetroPlus Commercial,Q4 2018,-71596.59
+OP,QU Queens Hosp,MetroPlus Commercial,Q1 2019,-17243.13
+OP,QU Queens Hosp,MetroPlus Commercial,Q2 2019,-775.31
+OP,QU Queens Hosp,MetroPlus Commercial,Q3 2019,-1870.63
+OP,QU Queens Hosp,MetroPlus Commercial,Q4 2019,-278.88
+OP,QU Queens Hosp,MetroPlus Commercial,Q1 2020,0
+OP,QU Queens Hosp,MetroPlus Medicaid,Q3 2018,-1797219.5
+OP,QU Queens Hosp,MetroPlus Medicaid,Q4 2018,-1130895.88
+OP,QU Queens Hosp,MetroPlus Medicaid,Q1 2019,-184859.57
+OP,QU Queens Hosp,MetroPlus Medicaid,Q2 2019,-20797.62
+OP,QU Queens Hosp,MetroPlus Medicaid,Q3 2019,-28735.89
+OP,QU Queens Hosp,MetroPlus Medicaid,Q4 2019,-8929.1
+OP,QU Queens Hosp,MetroPlus Medicaid,Q1 2020,-1398.48
+OP,QU Queens Hosp,MetroPlus Medicaid,Q2 2020,-140.09
+OP,QU Queens Hosp,MetroPlus Medicaid,Q3 2020,-3.74
+OP,QU Queens Hosp,MetroPlus Medicare,Q3 2018,-218739.13
+OP,QU Queens Hosp,MetroPlus Medicare,Q4 2018,-157946.14
+OP,QU Queens Hosp,MetroPlus Medicare,Q1 2019,-5558.38
+OP,QU Queens Hosp,MetroPlus Medicare,Q2 2019,-43.26
+OP,QU Queens Hosp,MetroPlus Medicare,Q3 2019,-3639.55
+OP,QU Queens Hosp,MetroPlus Medicare,Q4 2019,1306.93
+OP,QU Queens Hosp,MetroPlus Medicare,Q1 2020,-123.54
+OP,QU Queens Hosp,No Fault,Q3 2018,-3267.84
+OP,QU Queens Hosp,No Fault,Q4 2018,-27255.07
+OP,QU Queens Hosp,No Fault,Q1 2019,-23575.61
+OP,QU Queens Hosp,No Fault,Q2 2019,-2260.23
+OP,QU Queens Hosp,No Fault,Q3 2019,-327.44
+OP,QU Queens Hosp,Workers Comp,Q4 2018,-8750.25
+OP,QU Queens Hosp,Workers Comp,Q1 2019,-7275.1
+OP,QU Queens Hosp,Workers Comp,Q2 2019,-1551.88
+OP,QU Queens Hosp,Workers Comp,Q3 2019,-81.37
+OP,QU Queens Hosp,Workers Comp,Q1 2020,-31.32
+OP,CI Coney Island Hosp,Commercial,Q3 2018,-543739.84
+OP,CI Coney Island Hosp,Commercial,Q4 2018,-596818.75
+OP,CI Coney Island Hosp,Commercial,Q1 2019,-80247.27
+OP,CI Coney Island Hosp,Commercial,Q2 2019,4947.14
+OP,CI Coney Island Hosp,Commercial,Q3 2019,-18520.23
+OP,CI Coney Island Hosp,Commercial,Q4 2019,16901.34
+OP,CI Coney Island Hosp,Commercial,Q1 2020,-9953.52
+OP,CI Coney Island Hosp,Commercial,Q2 2020,-212.24
+OP,CI Coney Island Hosp,Commercial,Q3 2020,-216.47
+OP,CI Coney Island Hosp,Commercial Managed Care,Q3 2018,-454806.11
+OP,CI Coney Island Hosp,Commercial Managed Care,Q4 2018,-416737.51
+OP,CI Coney Island Hosp,Commercial Managed Care,Q1 2019,-47333.81
+OP,CI Coney Island Hosp,Commercial Managed Care,Q2 2019,-350.32
+OP,CI Coney Island Hosp,Commercial Managed Care,Q3 2019,-9794.28
+OP,CI Coney Island Hosp,Commercial Managed Care,Q4 2019,3360.51
+OP,CI Coney Island Hosp,Commercial Managed Care,Q1 2020,-26.66
+OP,CI Coney Island Hosp,Commercial Managed Care,Q2 2020,-778.63
+OP,CI Coney Island Hosp,Government/Other,Q3 2018,-4920.42
+OP,CI Coney Island Hosp,Government/Other,Q4 2018,-11300.36
+OP,CI Coney Island Hosp,Government/Other,Q1 2019,-865.99
+OP,CI Coney Island Hosp,Guar,Q3 2018,-168921.01
+OP,CI Coney Island Hosp,Guar,Q4 2018,-124938.38
+OP,CI Coney Island Hosp,Guar,Q1 2019,-60703.8
+OP,CI Coney Island Hosp,Guar,Q2 2019,-42510.98
+OP,CI Coney Island Hosp,Guar,Q3 2019,-8424.21
+OP,CI Coney Island Hosp,Guar,Q4 2019,-4156.37
+OP,CI Coney Island Hosp,Guar,Q1 2020,-962.04
+OP,CI Coney Island Hosp,Guar,Q2 2020,-3179.91
+OP,CI Coney Island Hosp,Guar,Q3 2020,-265
+OP,CI Coney Island Hosp,Medicaid,Q3 2018,-1031431.03
+OP,CI Coney Island Hosp,Medicaid,Q4 2018,-1084025.24
+OP,CI Coney Island Hosp,Medicaid,Q1 2019,-76773.1
+OP,CI Coney Island Hosp,Medicaid,Q2 2019,-4152.47
+OP,CI Coney Island Hosp,Medicaid,Q3 2019,-3517.9
+OP,CI Coney Island Hosp,Medicaid,Q4 2019,-13845.41
+OP,CI Coney Island Hosp,Medicaid,Q1 2020,-569.49
+OP,CI Coney Island Hosp,Medicaid,Q2 2020,-22.81
+OP,CI Coney Island Hosp,Medicaid,Q3 2020,0
+OP,CI Coney Island Hosp,Medicaid MC,Q3 2018,-1261654.09
+OP,CI Coney Island Hosp,Medicaid MC,Q4 2018,-1316230.63
+OP,CI Coney Island Hosp,Medicaid MC,Q1 2019,-163792.67
+OP,CI Coney Island Hosp,Medicaid MC,Q2 2019,-18779.1
+OP,CI Coney Island Hosp,Medicaid MC,Q3 2019,-17385.52
+OP,CI Coney Island Hosp,Medicaid MC,Q4 2019,-15147.47
+OP,CI Coney Island Hosp,Medicaid MC,Q1 2020,-3899.33
+OP,CI Coney Island Hosp,Medicaid MC,Q2 2020,-16038.49
+OP,CI Coney Island Hosp,Medicaid MC,Q3 2020,6380.97
+OP,CI Coney Island Hosp,Medicare,Q3 2018,-622272.59
+OP,CI Coney Island Hosp,Medicare,Q4 2018,-700057.19
+OP,CI Coney Island Hosp,Medicare,Q1 2019,-56760.28
+OP,CI Coney Island Hosp,Medicare,Q2 2019,-75432.81
+OP,CI Coney Island Hosp,Medicare,Q3 2019,-17885.06
+OP,CI Coney Island Hosp,Medicare,Q4 2019,-6576.06
+OP,CI Coney Island Hosp,Medicare,Q1 2020,2665.78
+OP,CI Coney Island Hosp,Medicare MC,Q3 2018,-856306.16
+OP,CI Coney Island Hosp,Medicare MC,Q4 2018,-606752.38
+OP,CI Coney Island Hosp,Medicare MC,Q1 2019,-229890.08
+OP,CI Coney Island Hosp,Medicare MC,Q2 2019,-25122.38
+OP,CI Coney Island Hosp,Medicare MC,Q3 2019,-9725.59
+OP,CI Coney Island Hosp,Medicare MC,Q4 2019,10074.73
+OP,CI Coney Island Hosp,Medicare MC,Q1 2020,133.31
+OP,CI Coney Island Hosp,Medicare MC,Q2 2020,-2580.21
+OP,CI Coney Island Hosp,Medicare MC,Q3 2020,3548.41
+OP,CI Coney Island Hosp,MetroPlus Commercial,Q3 2018,-68960.22
+OP,CI Coney Island Hosp,MetroPlus Commercial,Q4 2018,-37695.69
+OP,CI Coney Island Hosp,MetroPlus Commercial,Q1 2019,-23536.73
+OP,CI Coney Island Hosp,MetroPlus Commercial,Q2 2019,-295.44
+OP,CI Coney Island Hosp,MetroPlus Commercial,Q3 2019,-1126.12
+OP,CI Coney Island Hosp,MetroPlus Commercial,Q4 2019,-699.82
+OP,CI Coney Island Hosp,MetroPlus Medicaid,Q3 2018,-1122913.43
+OP,CI Coney Island Hosp,MetroPlus Medicaid,Q4 2018,-673997.84
+OP,CI Coney Island Hosp,MetroPlus Medicaid,Q1 2019,-214837.4
+OP,CI Coney Island Hosp,MetroPlus Medicaid,Q2 2019,-5422.09
+OP,CI Coney Island Hosp,MetroPlus Medicaid,Q3 2019,2950.82
+OP,CI Coney Island Hosp,MetroPlus Medicaid,Q4 2019,-23433.57
+OP,CI Coney Island Hosp,MetroPlus Medicaid,Q1 2020,-616.5
+OP,CI Coney Island Hosp,MetroPlus Medicaid,Q2 2020,-1193.09
+OP,CI Coney Island Hosp,MetroPlus Medicaid,Q3 2020,-1203.86
+OP,CI Coney Island Hosp,MetroPlus Medicare,Q3 2018,-150681.96
+OP,CI Coney Island Hosp,MetroPlus Medicare,Q4 2018,-122475.75
+OP,CI Coney Island Hosp,MetroPlus Medicare,Q1 2019,-12343.68
+OP,CI Coney Island Hosp,MetroPlus Medicare,Q2 2019,-146.75
+OP,CI Coney Island Hosp,MetroPlus Medicare,Q3 2019,341.06
+OP,CI Coney Island Hosp,MetroPlus Medicare,Q4 2019,-241.05
+OP,CI Coney Island Hosp,MetroPlus Medicare,Q2 2020,-545.97
+OP,CI Coney Island Hosp,MetroPlus Medicare,Q3 2020,-37.96
+OP,CI Coney Island Hosp,No Fault,Q3 2018,-3380.26
+OP,CI Coney Island Hosp,No Fault,Q4 2018,-11930.6
+OP,CI Coney Island Hosp,No Fault,Q1 2019,-30537.77
+OP,CI Coney Island Hosp,No Fault,Q2 2019,-17442.3
+OP,CI Coney Island Hosp,No Fault,Q3 2019,-4791.18
+OP,CI Coney Island Hosp,No Fault,Q4 2019,-650.33
+OP,CI Coney Island Hosp,No Fault,Q1 2020,-1540.1
+OP,CI Coney Island Hosp,No Fault,Q3 2020,-360.76
+OP,CI Coney Island Hosp,Workers Comp,Q3 2018,-117.82
+OP,CI Coney Island Hosp,Workers Comp,Q4 2018,-6772.03
+OP,CI Coney Island Hosp,Workers Comp,Q1 2019,-9955.71
+OP,CI Coney Island Hosp,Workers Comp,Q2 2019,-7775.57
+OP,CI Coney Island Hosp,Workers Comp,Q3 2019,-3402.33
+OP,CI Coney Island Hosp,Workers Comp,Q4 2019,-618.85
+OP,CI Coney Island Hosp,Workers Comp,Q1 2020,-64.07
+OP,CI Coney Island Hosp,Workers Comp,Q2 2020,-1049.71
+OP,BE Bellevue Hosp,Guar,Q4 2018,-3
