@@ -1,0 +1,40 @@
+Payer Field,Payer Group
+Blue Shield,Commercial
+Commercial,Commercial
+zzDoNotUse Child Health Plus,Commercial
+HEALTHFIRST,Commercial
+Commercial Managed Care,Commercial Managed Care
+OTHER HMO,Commercial Managed Care
+Government/Other,Government/Other
+Other,Government/Other
+Other Government,Government/Other
+Not Mapped,Government/Other
+GOVERNMENT/OTHER,Government/Other
+OTHER,Government/Other
+Medicaid,Medicaid
+MEDICAID FFS,Medicaid
+Medicaid Managed Care,Medicaid Managed Care
+Medicaid MC,Medicaid Managed Care
+MEDICAID FFS OTHER,Medicaid Managed Care
+Medicare,Medicare
+MEDICARE FFS,Medicare
+Medicare Managed Care,Medicare Managed Care
+Medicare MC,Medicare Managed Care
+MEDICARE FFS OTHER,Medicare Managed Care
+MetroPlus Commercial,MetroPlus
+MetroPlus Medicaid,MetroPlus
+MetroPlus Medicare,MetroPlus
+MetroPlus,MetroPlus
+zzDoNotUse Metroplus CHP,MetroPlus
+zzDoNotUse Metroplus Medicaid,MetroPlus
+METROPLUS,MetroPlus
+No Fault,No Fault
+NO FAULT,No Fault
+Guar,Self-Pay
+Self-pay,Self-Pay
+Self-Pay,Self-Pay
+SELF PAY,Self-Pay
+Workers Comp,Workers Compensation
+Worker's Comp,Workers Compensation
+Workers Compensation,Workers Compensation
+WORKERS COMPENSATION,Workers Compensation
